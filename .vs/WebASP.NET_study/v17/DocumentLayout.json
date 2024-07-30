@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\OwnProgramsCreate\\WebASP.NET_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|solutionrelative:webasp.net_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{443BD878-D9CD-4D03-ABC9-07474665E360}|WebASP.NET_study\\WebASP.NET_study.csproj|d:\\ownprogramscreate\\webasp.net_study\\webasp.net_study\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +50,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "WebASP.NET_study\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "WebASP.NET_study\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:38:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebASP.NET_study\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "WebASP.NET_study\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:21:52.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebASP.NET_study\\Views\\Category\\Edit.cshtml",
@@ -55,46 +89,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebASP.NET_study\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebASP.NET_study\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAPAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T17:19:23.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "WebASP.NET_study\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "WebASP.NET_study\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T16:39:16.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "WebASP.NET_study\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "WebASP.NET_study\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAIwD4AAAADAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwE4AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T15:26:19.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebASP.NET_study\\Data\\ApplicationDbContext.cs",
@@ -106,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\Program.cs",
               "RelativeDocumentMoniker": "WebASP.NET_study\\Program.cs",
@@ -114,12 +148,11 @@
               "RelativeToolTip": "WebASP.NET_study\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T16:46:16.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T16:46:16.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\OwnProgramsCreate\\WebASP.NET_study\\WebASP.NET_study\\appsettings.json",
               "RelativeDocumentMoniker": "WebASP.NET_study\\appsettings.json",
