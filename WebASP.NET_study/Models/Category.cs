@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Data;
 
 namespace WebASP.NET_study.Models
@@ -9,6 +10,8 @@ namespace WebASP.NET_study.Models
         public int Id { get; set; }
         [Required]
         public string Name  { get; set; }
+        [DisplayName ("Display Order")]
+        [Range(1,100, ErrorMessage = "Display Order must be between 1 and 100 only!")]
         public int DisplayOrdere { get; set; }
         public DateTime CreatedDateTime  { get; set; } = DateTime.Now;
     }
